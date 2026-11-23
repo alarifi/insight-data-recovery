@@ -1,0 +1,47 @@
+INSIGHT DATA RECOVERY STUDIO PRO
+END USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT: PLEASE READ THIS END USER LICENSE AGREEMENT CAREFULLY BEFORE INSTALLING, COPYING, ACCESSING, OR USING THIS SOFTWARE.
+
+This End User License Agreement ("Agreement") is a legal agreement between you, the end user ("User", "you"), and Insight Software ("Licensor", "we", "us") for the software product known as Insight Data Recovery Studio Pro, including its executable files, components, documentation, libraries, and related materials ("Software").
+
+By installing, copying, accessing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.
+
+1. GRANT OF LICENSE
+Insight Software grants you a limited, non-exclusive, non-transferable, revocable license to install and use Insight Data Recovery Studio Pro in accordance with this Agreement. You may use the Software for lawful personal, commercial, and professional data recovery purposes.
+
+2. SOFTWARE PURPOSE & CAPABILITIES
+Insight Data Recovery Studio Pro is an advanced commercial data recovery and file repair suite engineered for:
+- Undelete and deep partition scan across NTFS, FAT32, exFAT, and RAW file systems.
+- Forensic master file table ($MFT) and sector-level signature carving.
+- Lost, deleted, and formatted partition rescue.
+- Byte-level forensic live file preview and Hex inspection.
+- Automated local offline repair for corrupted images (JPEG, PNG), office documents (DOCX, XLSX, PPTX, PDF), and multimedia video/audio files (MP4, MOV, MKV, AVI, MP3, WAV).
+- ChronoSnap raw disk backup and byte-accurate sector imaging.
+
+3. 100% OFFLINE & PRIVACY GUARANTEE
+The Software operates entirely offline. It does not contain telemetry, internet phone-home beacons, or external cloud uploads. All scan data, recovered files, and drive sector reads remain strictly on your local computer.
+
+4. SAFE RECOVERY GUIDELINES
+To maximize data recovery integrity, you agree to adhere to industry standard safety practices:
+- Never save recovered files onto the same drive or partition from which they are being recovered.
+- Do not perform heavy disk write operations or install applications onto drives undergoing scan or sector recovery.
+- The Software provides safe destination drive auto-selection to assist in avoiding data overwriting.
+
+5. RESTRICTIONS
+You may not:
+a. Decompile, disassemble, reverse engineer, or attempt to derive the underlying source code of the Software except to the extent permitted by applicable law.
+b. Modify, adapt, translate, rent, lease, sublicense, resell, or distribute copies of the Software without express written permission from Insight Software.
+c. Remove, alter, or obscure any proprietary notices, copyright labels, or branding from the Software.
+d. Use the Software for any unauthorized, unlawful, or infringing purpose.
+
+6. DISCLAIMER OF WARRANTIES
+The Software is provided "AS IS" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. While the Software employs advanced forensic carving and file repair algorithms, Insight Software does not guarantee that every damaged, overwritten, or SSD-TRIM purged file can be 100% recovered.
+
+7. LIMITATION OF LIABILITY
+In no event shall Insight Software be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of data, or any other pecuniary loss) arising out of the use of or inability to use this product.
+
+8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the applicable jurisdiction, without giving effect to any principles of conflicts of law.
+
+Copyright (c) 2026 Insight Software. All rights reserved.
